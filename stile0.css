@@ -1,0 +1,45 @@
+<head>
+<style>
+h1{
+color:red;
+text-align:center;
+}
+h2{
+color:blue;
+text-align:center;
+}
+p{
+color:red;
+text-align:center;
+text-style:h2
+font:arial
+}
+  div {
+        font-family:Arial, sans-serif;
+        font-size:28px ;
+        font-weight:bold;
+        border:2px solid red;}
+        table {
+
+        background-color:teal;
+        width:200px;
+        height:200px;
+        margin:5px;
+width:70%;
+
+border: 2px solid brown;
+ border-collapse:collapse;
+        }
+        th,td {
+        border: 1px solid black;
+text-align:center;
+ padding:5px;
+        }
+        th{
+        background-color:lightgray;
+        }
+</style>
+
+
+
+</head>
